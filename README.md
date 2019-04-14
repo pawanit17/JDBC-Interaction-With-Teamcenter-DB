@@ -10,5 +10,7 @@ would consequently give you ClassNotFoundExceptions, while you try to load the d
 
 In this repository, we would use JDBC to connect to Teamcenter Oracle database directly ( skipping the corporate servers / Teamcenter sessions ) and we would be usign the JDBC type 4 driver for the same. Our agenda is to extract the list of Item IDs present in the database along with their Owner names and print them out to the console.
 
+Explanation of the code can be found in the documentation that I generated for the eclipse project Or you can refer the WIKI section here: https://github.com/pawanit17/JDBC-Interaction-With-Teamcenter-DB/wiki
+
 Thanks,
 Pavan.
